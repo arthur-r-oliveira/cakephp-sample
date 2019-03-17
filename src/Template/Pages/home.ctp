@@ -1,11 +1,11 @@
         <div class="row">
           <section class='col-xs-12 col-sm-6 col-md-6'>
             <section>
-              <h2>How to use this example application</h2>
+              <h2>Exemplo APP teste para HAVAN - How to use this example application</h2>
                 <p>For instructions on how to use this application with OpenShift, start by reading the <a href="http://docs.okd.io/latest/dev_guide/templates.html#using-the-quickstart-templates">Developer Guide</a>.</p>
 
-              <h2>Deploying code changes</h2>
-                <p>
+              <h2>Exemplo APP teste para HAVAN -Deploying code changes</h2>
+                <p>Exemplo APP teste para HAVAN -
                   The source code for this application is available to be forked from the <a href="https://www.github.com/sclorg/cakephp-ex">OpenShift GitHub repository</a>.
                   You can configure a webhook in your repository to make OpenShift automatically start a build whenever you push your code:
                 </p>
